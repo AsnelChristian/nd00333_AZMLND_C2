@@ -121,5 +121,8 @@ Here are some details about the run:
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
+
+[Here](https://youtu.be/04Y7vqfls-E) is a screencast showing the project in action.
+
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
