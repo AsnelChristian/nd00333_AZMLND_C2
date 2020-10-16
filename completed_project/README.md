@@ -1,22 +1,22 @@
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
+[//]: <> (*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include)
 
 
-# Your Project Title Here
+# Operationalizing Machine Learning (AzureML Nanodegree)
 
-*TODO:* Write an overview to your project.
+[//]: <> (*TODO:* Write an overview to your project.)
 
 In this project we are provided a dataset: the Bank marketing dataset. We use automl to determined the best performing model, which can be used to predict whether or not the clients end up subscribing to the product being advertised by the bank. We deploy
 this model, so that it can used by others to work with on this dataset. We make sure to enable logging so that we can track what goes with our deployed model for debugging purposes.
 
 ## Architectural Diagram
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step.
+[//]: <> (*TODO*: Provide an architectual diagram of the project and give an introduction of each step.)
 
 Here is an architectural view of the project:
 ![project architecture](./project-architecture.png)
 
 
 ## Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screencasts required to demonstrate key steps.
+[//]: <> (*TODO*: Write a short discription of the key steps. Remeber to include all the screencasts required to demonstrate key steps.)
 
 
 ### Creating a service principal
@@ -116,13 +116,12 @@ Here are some details about the run:
 ![published pipeline run](./published-pipeline-rundetails.png)
 
 
-*TODO* Remember to provide screenshots of the `RunDetails` widget as well as a screenshot of the best model trained with it's parameters.
+[//]: <> (*TODO* Remember to provide screenshots of the `RunDetails` widget as well as a screenshot of the best model trained with it's parameters.)
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
-
+[//]: <> (*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:)
 
 [Here](https://youtu.be/04Y7vqfls-E) is a screencast showing the project in action.
 
 ## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+[//]: <> (*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.)
