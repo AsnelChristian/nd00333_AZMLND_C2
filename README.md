@@ -125,3 +125,10 @@ Here are some details about the run:
 
 ## Standout Suggestions
 *TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+
+
+### Improve on the project
+They are several steps we can take to improve on this project.
+
+- We can further clean the data. The data presents many outliers. We need to remove these outliers to improve on our model, because outliers tend to drow the results in their direction making our predictions inaccurate. We can also remove column that are not really meaningful or impactful. The ``default`` column has the same value for almost every row: which is why we can conclude that it doesn't really have an impact on our predictions.
+- We can also consider adding a parallel run step to our pipeline to support batch input. This could greatly reduce the processing time in case we have a lot of data to process.
